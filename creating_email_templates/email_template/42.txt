@@ -1,0 +1,6 @@
+Email to: roxane@luminate.ai 
+Subject Line:  EM card reader can not be detected via USB port 
+Hi Roxane Campain, 
+When burning again, the error message is always: wmem reports disc project build exception: 118764f4 
+Thanks, 
+Rob Willison

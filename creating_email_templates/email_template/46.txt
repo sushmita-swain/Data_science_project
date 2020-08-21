@@ -1,0 +1,6 @@
+Email to: jina_briddick@luminate.ai 
+Subject Line:  The burning stops with the message "Internal problem". 
+Hi Jina Briddick, 
+Burning aborted with the following error: Encrypt failed. 
+Thanks, 
+Rob Willison

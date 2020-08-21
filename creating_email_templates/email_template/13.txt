@@ -1,0 +1,6 @@
+Email to: gruta@luminate.ai 
+Subject Line:  Error when importing workit PRC files. Type can not be opened. 
+Hi Graciela Ruta, 
+If you select the product presentation version in the table presentation, then select Dynamicolisting or Popup when linking, Iso crashes (a script slows Iso 13. Should the script still be executed? ... or something like that). Then it does not matter if you press yes or no, because it comes to the crash: "The Iso addon crashed". email me at asergi[at]apple.com 
+Thanks, 
+Rob Willison

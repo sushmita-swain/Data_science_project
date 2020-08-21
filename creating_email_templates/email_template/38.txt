@@ -1,0 +1,6 @@
+Email to: valentine_gillian@luminate.ai 
+Subject Line:  AutoSortSD functions are out of the visible screen area 
+Hi Valentine Gillian, 
+After a couple of times the DVD's are properly burned, the following error message will appear after some time: Problem in class "wmembank.dll" (search address: Ox28111570) at address 6x8e80fcre 
+Thanks, 
+Rob Willison

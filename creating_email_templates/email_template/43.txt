@@ -1,0 +1,6 @@
+Email to: lperin@luminate.ai 
+Subject Line:  When opening the program the error message "the smartcard device ..." appears. 
+Hi Lavera Perin, 
+When burning the program reports the following error message when encrypting. wmem reports disk project puild exception 411451v4 
+Thanks, 
+Rob Willison

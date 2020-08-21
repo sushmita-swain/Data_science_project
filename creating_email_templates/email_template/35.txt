@@ -1,0 +1,6 @@
+Email to: solange@luminate.ai 
+Subject Line:  When previewing the page or when exporting the data sheet in Specsmanager, the error message "insufficient memory" appears. 
+Hi Solange Shinko, 
+During the last burning attempt, however, the following error message came: Problem in class "wmembank.dll" (search address: Ox83708447) at address 6x8e80fcre 
+Thanks, 
+Rob Willison

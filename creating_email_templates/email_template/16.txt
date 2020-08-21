@@ -1,0 +1,6 @@
+Email to: meaghan@luminate.ai 
+Subject Line:  Encryption aborts with the message "Encrypt failed". 
+Hi Meaghan Garufi, 
+If you drag in the version 13 data and processes that were read in with the same card reader by mouse into the scheduling view, the process files either do not appear at all or without the order number fields that were imported with the data. 
+Thanks, 
+Rob Willison

@@ -1,0 +1,6 @@
+Email to: erick.ferencz@luminate.ai 
+Subject Line:  When you install the Process Manager driver, you receive the error message "1133: Unable to finish installation." 
+Hi Erick Ferencz, 
+!!! MBK exception in CopyWorkspace: 13 - process failed !!! 
+Thanks, 
+Rob Willison

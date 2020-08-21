@@ -1,0 +1,6 @@
+Email to: kanisha_waycott@luminate.ai 
+Subject Line:  Error code -9 when starting the program 
+Hi Kanisha Waycott, 
+The burning was aborted with the following error: Encrypt failed. 
+Thanks, 
+Rob Willison

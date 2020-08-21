@@ -1,0 +1,6 @@
+Email to: rozella.ostrosky@luminate.ai 
+Subject Line:  Various error messages when using the online collection (both when logging in, uploading media, etc.) 
+Hi Rozella Ostrosky, 
+I can not move the text input fields when creating the control bar image (in the burn area). Also, I do not see the entered text (whether set to black, 3.30 or 70%). 
+Thanks, 
+Rob Willison

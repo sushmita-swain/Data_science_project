@@ -1,0 +1,6 @@
+Email to: allene_iturbide@luminate.ai 
+Subject Line:  Temporary display problems with Specssheet Creator or Online Collection 
+Hi Allene Iturbide, 
+Under the new version 14, it is not possible to assign a purchase order number to sales objects ("normal" XLS statistics in the separate order number line o.k. and under version 12 also the process order numbers can be seen) 
+Thanks, 
+Rob Willison

@@ -1,0 +1,6 @@
+Email to: willard@luminate.ai 
+Subject Line:  Errors in the product data memory 
+Hi Willard Kolmetz, 
+If I then want to pull down the new process (example: Gelsenkirchen-Projekt2.dat) in overview mode with the mouse, to attach it to the first process, I only get the line 1 (data), which is line 2 (order numbers) disappeared. 
+Thanks, 
+Rob Willison

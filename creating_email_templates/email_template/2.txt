@@ -1,0 +1,6 @@
+Email to: art@luminate.ai 
+Subject Line:  Cwvemx files falter in Sales firstclass 20 
+Hi Art Venere, 
+In export mode, the font in the small preview window in the filemenu is always the same as the font in the header line of the submenu. 
+Thanks, 
+Rob Willison
